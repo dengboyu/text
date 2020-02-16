@@ -6,11 +6,11 @@
 
 3.Array
 
-4.Object
+4.Collection
 
-5.Collection
+5.Map
 
-6.Map
+6.Object
 
 7.Thread
 
@@ -24,7 +24,7 @@
 
 9.Reflect
 
-10.date
+10.Date
 
 ```
 
