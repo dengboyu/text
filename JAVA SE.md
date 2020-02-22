@@ -6,7 +6,7 @@
 
 ```
 
-1).底层final char[] ，toCharArray --> char[]
+1).底层final char[] ，toCharArray() --> char[]
 
 ```
 
