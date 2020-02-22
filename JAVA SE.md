@@ -2,11 +2,25 @@
 
 1.Integer/Long/Character/Number
 
-2.String 
+2.String
+
+```
+
+1).底层final char[] ，toCharArray --> char[]
+
+```
 
 3.Array
 
 4.Collection
+
+```
+
+> ArrayList
+  
+  1).底层Object[]  toObject() --> Object[]
+
+```
 
 5.Map
 
